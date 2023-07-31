@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Liatos233
 - 🌱 I’m currently learning web
-- 📫 My website: ![https://liatos233.github.io/]
+- 📫 My website: https://liatos233.github.io/
